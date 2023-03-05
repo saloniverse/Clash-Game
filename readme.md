@@ -2,7 +2,7 @@
 
 ## **Initial Output**
 
-![](./DOM1/initialOutput.png)
+![](./Output/Initial%20Output.png)
 
 ## Tech Stack
 
